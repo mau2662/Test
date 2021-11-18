@@ -16,6 +16,7 @@ public class Calculadora extends javax.swing.JFrame {
     float primerNumero, segundoNumero;
     String operador;
     int random = 0;
+    int nada;
 
     public String entero(double resultado) {
         String retorno = "";
